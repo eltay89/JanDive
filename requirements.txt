@@ -1,0 +1,8 @@
+llama-cpp-python
+beautifulsoup4
+requests
+click
+tqdm
+ddgs
+lxml
+colorama
