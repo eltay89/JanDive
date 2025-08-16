@@ -1,7 +1,5 @@
 ![JanDive Logo](https://github.com/eltay89/JanDive/blob/main/logo.png)
 
-# JanDive: Your Private, Local-First Research Agent
-
 JanDive is a powerful, privacy-focused CLI tool that transforms your machine into an intelligent research agent. It leverages a local, quantized Large Language Model (LLM) to perform in-depth, multi-step research on any topic, without your data ever leaving your computer.
 
 Designed for developers, researchers, and privacy-conscious individuals, JanDive combines the power of web search with the intelligence of an LLM to deliver comprehensive, well-structured, and cited reports.
